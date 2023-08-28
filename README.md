@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udaykumarnasana
 - 👀 I’m interested in software doveloper
 - 🌱 I’m currently learning python fullstack 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new  innovations
 - 📫 How to reach me .contact with my udaykumarnasana91@gmail.com
 
 <!---
